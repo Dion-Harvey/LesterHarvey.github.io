@@ -1,7 +1,7 @@
 # Computer Engineer
 
 ### Education
-Bachelors of Science in Computer Science and Computer Engineering
+Bachelors of Science in Computer Science and Computer Engineering from University of La Verne
 
 ### Work Experience
 GIS Technical Specialist @ Southern California Edison (SCE)
