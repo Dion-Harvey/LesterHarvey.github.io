@@ -1,4 +1,4 @@
-# Data Engineer
+# Computer Engineer
 
 ### Education
 Bachelors of Science in Computer Science and Computer Engineering
